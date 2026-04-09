@@ -73,3 +73,52 @@ Tools & Technologies-:
 SQL (MySQL)
 Excel (Data Cleaning)
 GitHub (Project Hosting)
+
+
+
+Sales Performance Dashboard (POWER BI)
+
+
+Overview -:
+To conduct a comprehensive analysis of sales performance customer satisfication and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in power BI.
+
+KPIs Requirements 
+1.	Total Sales
+2.	Average Sales 
+3.	Number of items
+4.	Average Rating
+
+Charts Requirements 
+1.	Total sales by Fat Content: 
+Objective – Analyze the impact of fat content on total sales 
+Additional KPI matrics – Assess how other KPIs (Average Sales, Number of items, Average Rating) vary with fat content.
+Chart Type – Donut Chart 
+2.	Total Sales by item Type:
+Objective – identify the performance of different item types in terms of total Sales
+Additional KPI matrics – Assess how other KPIs (Average Sales, Number of items, Average Rating) vary with fat content.
+Chart Type – Bar Chart 
+3.	Fat Content by Outlet for Total Sales:
+Objective – compare total sales across different outlets segmented by fat content.
+Additional KPI matrics - Assess how other KPIs (Average Sales, Number of items, Average Rating) vary with fat content.
+Chart Type – Stacked Column Chart.
+4.	Total Sales by Outlet Establishment:
+Objective – Evaluate how the age or type of outlet establishment influences total sales.
+Chart Type – Line Chart.
+5.	Sales by Outlet Size:
+Objective – Analyze the correlation between outlet size and total sales.
+Chart Type – Donut/Pie chart
+6.	Sales by Outlet Size:
+Objective – Assess the geographic distribution of sales across different locations.
+Chart Type – Funnel Map.
+7.	All Metrics by Outlet Type:
+Objective – Provide a comprehensive view of all key metrics (Total Sales, Average sales, Number of Items, Average Rating) broken down by different outlet types.
+Chart Type – Matrix Card
+
+Final Output 
+
+<img width="1920" height="1080" alt="{4790FB5D-0093-43E1-B313-7D17F5ACD9D2}" src="https://github.com/user-attachments/assets/7bfff474-04b9-4a39-8ec5-09be9bb96cb7" />
+
+
+
+
+
