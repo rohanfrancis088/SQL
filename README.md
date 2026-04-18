@@ -1,12 +1,3 @@
-Sales Data Analysis Dashboard (Excel)
-Project Overview: 
-Analyzed 1000+ sales records to identify trends and improve business performance. 
-Tools Used: 
-Excel (Pivot Tables, VLOOKUP, Charts) 
-Dashboard Preview:
-<img width="1853" height="914" alt="{428F69F0-0BE4-4DC1-A403-D354DABB50FA}" src="https://github.com/user-attachments/assets/ea2de081-3135-47b4-96d9-d05794fcc3f0" />
-
-
 E-Commerce Sales Analysis using SQL
 
 Overview -
@@ -76,46 +67,6 @@ GitHub (Project Hosting)
 
 
 
-Sales Performance Dashboard (POWER BI)
-
-
-Overview -:
-To conduct a comprehensive analysis of sales performance customer satisfication and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in power BI.
-
-KPIs Requirements 
-1.	Total Sales
-2.	Average Sales 
-3.	Number of items
-4.	Average Rating
-
-Charts Requirements 
-1.	Total sales by Fat Content: 
-Objective – Analyze the impact of fat content on total sales 
-Additional KPI matrics – Assess how other KPIs (Average Sales, Number of items, Average Rating) vary with fat content.
-Chart Type – Donut Chart 
-2.	Total Sales by item Type:
-Objective – identify the performance of different item types in terms of total Sales
-Additional KPI matrics – Assess how other KPIs (Average Sales, Number of items, Average Rating) vary with fat content.
-Chart Type – Bar Chart 
-3.	Fat Content by Outlet for Total Sales:
-Objective – compare total sales across different outlets segmented by fat content.
-Additional KPI matrics - Assess how other KPIs (Average Sales, Number of items, Average Rating) vary with fat content.
-Chart Type – Stacked Column Chart.
-4.	Total Sales by Outlet Establishment:
-Objective – Evaluate how the age or type of outlet establishment influences total sales.
-Chart Type – Line Chart.
-5.	Sales by Outlet Size:
-Objective – Analyze the correlation between outlet size and total sales.
-Chart Type – Donut/Pie chart
-6.	Sales by Outlet Size:
-Objective – Assess the geographic distribution of sales across different locations.
-Chart Type – Funnel Map.
-7.	All Metrics by Outlet Type:
-Objective – Provide a comprehensive view of all key metrics (Total Sales, Average sales, Number of Items, Average Rating) broken down by different outlet types.
-Chart Type – Matrix Card
-
-Final Output 
-<img width="1920" height="1080" alt="{F388AD54-F7BF-4DC1-8819-96D129BDCA2C}" src="https://github.com/user-attachments/assets/7e30a032-172d-4968-bc4c-d295ef46e08c" />
 
 
 
